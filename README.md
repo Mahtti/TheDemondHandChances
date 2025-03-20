@@ -17,7 +17,6 @@ This project analyzes the probabilities and efficiency of attacks based on their
 ### 🐍 Option 1: Run from Python
 
 1. Run the .exe file inside the TheDemondHandChances folder.
-2. Enter all the time played data for the moves; they can be found here:
-   ![image](https://github.com/user-attachments/assets/747c670e-2ddd-4a53-82d3-f937d85b6586)
+2. Enter all the time played data for the moves; they can be found here: ![image](https://github.com/user-attachments/assets/747c670e-2ddd-4a53-82d3-f937d85b6586)
 3.![image](https://github.com/user-attachments/assets/58c64970-ca4b-4523-b30c-43fb931d66e3)
 
