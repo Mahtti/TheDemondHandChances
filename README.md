@@ -24,3 +24,4 @@ This project analyzes the probabilities and efficiency of attacks based on their
 
 3.![image](https://github.com/user-attachments/assets/58c64970-ca4b-4523-b30c-43fb931d66e3)
 
+If you like it, you can follow me on Twitter :) [https://github.com/Mahtti/TheDemonsHand-Chances](https://x.com/Mahtti1)
