@@ -1,4 +1,4 @@
-# 🎯 TheDemonHandChances
+# 🎯 TheDemonsHandChances
 
 This project analyzes the probabilities and efficiency of attacks based on their damage and number of plays. You can use it directly from Python or as an executable file (.exe).
 
